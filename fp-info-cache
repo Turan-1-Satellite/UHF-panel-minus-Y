@@ -1,4 +1,4 @@
-27321941774134983
+27327283252147405
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -60284,6 +60284,13 @@ Connector
 20
 20
 Custom-Footprints
+FSM-42052-10
+
+
+0
+20
+20
+Custom-Footprints
 FSR-41057-02-F
 PIN HEADER
 
@@ -60297,6 +60304,13 @@ PIN HEADER
 0
 3
 3
+Custom-Footprints
+FSR-41057-12
+
+
+0
+12
+12
 Custom-Footprints
 Hirose_A3C-4DA-2DSA(71)
 A3C-4DA-2DSA(71)-3
@@ -60458,6 +60472,13 @@ PIN HEADER
 0
 3
 3
+Custom-Footprints
+PSR-410253-12
+
+
+0
+12
+12
 Custom-Footprints
 PSR-420253-10
 Through hole angled pin header, 2x10, 2.54mm pitch, 3mm pin length, double rows
