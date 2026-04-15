@@ -1,4 +1,4 @@
-27329059384114444
+27332620303357399
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -60221,6 +60221,13 @@ Connector
 4
 4
 Custom-Footprints
+61300611121
+
+
+0
+6
+6
+Custom-Footprints
 AD7490BCPZ
 32-Lead Lead Frame Chip Scale Package [LFCSP_WQ] 5 mm × 5 mm Body, Very Very Thin Quad (CP-32-7)
 Integrated Circuit
@@ -60444,6 +60451,13 @@ PHOTOMOS_AQZ10X
 0
 4
 4
+Custom-Footprints
+PPPC132LJBN-RC
+
+PPPC132LFBN-RC 
+0
+26
+26
 Custom-Footprints
 PSR-210153-20_P2.00mm
 HIROSUGI-KEIKI PSR-210153-20, 1x20, 2.00mm pitch, right-angle/horizontal, through-hole
